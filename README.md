@@ -1,6 +1,6 @@
 # ProjetBPO
 
-# Description
+## Description
 
 Ce projet avait pour objectif de développer une bibliothèque de fonctionnalité permettant d'effectuer le montage d'un film dans un format spécifique (format .txt)
 La bibliothèque permet d'appliquer un total de 5 opérations sur un film de ce format
@@ -14,6 +14,6 @@ Ces opérations peuvent être additionnées sur un même film.
 Les films montés peuvent être sauvegardé pour une utilisation ultérieure, et/ou être projetés.
 
 
-# Diagramme UML
+## Diagramme UML
 
-![Screenshot](screenshot.png)
+<img src="UML.png" width=50%>
